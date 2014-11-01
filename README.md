@@ -15,15 +15,14 @@ Features
 Instructions to install
 =======================
 
-1. Clone the project with git
+Clone the theme into your roller/themes folder
 
-	# git clone https://github.com/gauravsaini03/roller-theme.git
+	# git clone https://github.com/gauravsaini03/scream-swag.git
 
-  Also, you can download the zip verion https://github.com/gauravsaini03/scream-swag/archive/master.zip
 
-2. Copy the apk file in you andorid phone
-3. In Securtiy > Device Administration > Enable Unkown Sources Installation
-4. Open the apk and install it.
+1. Copy the apk file in you andorid phone
+2. In Securtiy > Device Administration > Enable Unkown Sources Installation
+3. Open the apk and install it.
 
 Instructions to Use
 ==================
