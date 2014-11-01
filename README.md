@@ -19,6 +19,7 @@ Clone the theme into your roller/themes folder
 
 	# git clone https://github.com/gauravsaini03/scream-swag.git
 
+Also, you can download the zip verion https://github.com/gauravsaini03/scream-swag/archive/master.zip
 
 1. Copy the apk file in you andorid phone
 2. In Securtiy > Device Administration > Enable Unkown Sources Installation
